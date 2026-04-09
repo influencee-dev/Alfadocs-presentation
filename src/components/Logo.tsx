@@ -49,7 +49,7 @@ export const LogoReveal = () => {
         </div>
         <div className="flex items-center gap-6">
           <img 
-            src="/new.png" 
+            src="/new.jpg" 
             alt="New Alfadocs Logo" 
             className="w-50 h-50 md:w-24 md:h-24 object-contain drop-shadow-[0_0_32px_rgba(103,97,229,0.6)]"
             referrerPolicy="no-referrer"

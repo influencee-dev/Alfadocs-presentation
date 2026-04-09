@@ -24,7 +24,7 @@ export const LogoReveal = () => {
         className="absolute inset-0 flex flex-col items-center justify-center z-10"
       >
         <img 
-          src="/old.webp" 
+          src="/old.png" 
           alt="Old Alfadocs Logo" 
           className="w-64 md:w-80 object-contain"
           referrerPolicy="no-referrer"

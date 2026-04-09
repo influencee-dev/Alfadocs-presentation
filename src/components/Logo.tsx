@@ -51,7 +51,7 @@ export const LogoReveal = () => {
           <img 
             src="/new.png" 
             alt="New Alfadocs Logo" 
-            className="w-20 h-20 md:w-24 md:h-24 object-contain drop-shadow-[0_0_32px_rgba(103,97,229,0.6)]"
+            className="w-50 h-50 md:w-24 md:h-24 object-contain drop-shadow-[0_0_32px_rgba(103,97,229,0.6)]"
             referrerPolicy="no-referrer"
           />
         

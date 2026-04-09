@@ -29,9 +29,7 @@ export const LogoReveal = () => {
           className="w-64 md:w-80 object-contain"
           referrerPolicy="no-referrer"
         />
-        <div className="mt-8 font-serif text-4xl md:text-6xl font-extralight text-white/50 tracking-[0.2em] uppercase">
-          ALFADOCS
-        </div>
+       
       </motion.div>
 
       {/* New Logo Reveal */}
@@ -56,9 +54,7 @@ export const LogoReveal = () => {
             className="w-20 h-20 md:w-24 md:h-24 object-contain drop-shadow-[0_0_32px_rgba(103,97,229,0.6)]"
             referrerPolicy="no-referrer"
           />
-          <span className="font-sans text-6xl md:text-8xl font-bold text-white tracking-tight">
-            Alfadocs
-          </span>
+        
         </div>
         <motion.div
           initial={{ opacity: 0 }}
